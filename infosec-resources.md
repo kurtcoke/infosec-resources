@@ -16,8 +16,10 @@
 ###Getting Started
 To get started on real live targets legally, you will have to have a look at the following sites, they allow you to do live security testing on some very big and famous web sites. Just make sure to read the fine print in terms of testing guidelines, stay within scope and don't publish anything to the internet that you are not allowed to.
 
-* [Bugcrowd](https://bugcrowd.com/)
+*[Bugcrowd](https://bugcrowd.com/)
+
 *[Hackerone](https://hackerone.com/)
+
 *[Cobalt](https://cobalt.io/)
 
 ###Blogs
